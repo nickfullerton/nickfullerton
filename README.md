@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nickfullerton
 - 👀 I’m interested in Data Science, Machine Leaning, and Artificial Intelligence 
-- 🌱 I’m currently studying Computer Science with a minor in Data Science at the Arizona State University
-- 💞️ I’m actively looking for interships for Summer 2022
+- 🌱 I’m currently studying Data Science at the Arizona State University
+- 💞️ I'm in my final year at Arizona State University actively looking for a full-time job after I graduate
 - 📫 Best place to reach me is at my email nickfullerton2285@gmail.com
 
 <!---
