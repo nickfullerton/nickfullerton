@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nickfullerton
-- 👀 I’m interested in Data Science, Machine Leaning, and Artificial Intelligence 
-- 🌱 I’m currently studying Data Science at the Arizona State University
-- 💞️ I'm in my final year at Arizona State University actively looking for a full-time job after I graduate
+- 👀 I’m interested in Data Science, Machine Leaning, and Artificial Intelligence
+- 🌱 I’m currently a Master of Data Science and Applied Statistics student at SMU  
 - 📫 Best place to reach me is at my email nickfullerton2285@gmail.com
 
 <!---
